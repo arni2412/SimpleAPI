@@ -14,7 +14,9 @@ namespace SimpleAPI.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "pradeep1", "amar" };
+             var values = new string[] { "pradeep1", "amar" };
+            return values; // Return an HTTP 200 response with the list of strings
+       
         }
 
         //GET: api/values/5
