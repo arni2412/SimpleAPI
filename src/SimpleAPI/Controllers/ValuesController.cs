@@ -20,7 +20,7 @@ namespace SimpleAPI.Controllers
         }
 
         //GET: api/values/5
-        [HttpGet]
+        [HttpGet("{id}")]
         public string Get(int id)
         {
             return "pradeep kumar";
