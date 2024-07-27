@@ -18,11 +18,11 @@ namespace SimpleAPI.Controllers
         }
 
         //GET: api/values/5
-        [HttpGet]
-        public string Get(int id)
-        {
-            return "pradeep kumar";
-        }
+        // [HttpGet]
+        // public string Get(int id)
+        // {
+        //     return "pradeep kumar";
+        // }
 
     }
 }
