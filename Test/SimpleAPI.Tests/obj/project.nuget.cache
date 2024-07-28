@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Td885xH0D2tDOQb91CrrYDqbx9aOULYgGSjNYyVRIJD/1JhEd91nX1NVVMN3rlZXFdThinqH3+NSBfhWevtrEA==",
+  "dgSpecHash": "gbVxdxIbwFjnCvLahUGOpC41pUG5bEAFWaqkGfTFKy05mH8RoDch+Q9PoRKo1WnKuphWoM+GBu/YfDMEZE+IvQ==",
   "success": true,
-  "projectFilePath": "D:\\CICDNew\\SimpleAPI\\Test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj",
+  "projectFilePath": "D:\\CICDNew\\SimpleAPI\\test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
