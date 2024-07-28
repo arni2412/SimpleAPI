@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CICDNew\\SimpleAPI\\test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj": {}
+    "D:\\CICDNew\\SimpleAPI\\Test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj": {}
   },
   "projects": {
     "D:\\CICDNew\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj": {
@@ -95,14 +95,14 @@
         }
       }
     },
-    "D:\\CICDNew\\SimpleAPI\\test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj": {
+    "D:\\CICDNew\\SimpleAPI\\Test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CICDNew\\SimpleAPI\\test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj",
+        "projectUniqueName": "D:\\CICDNew\\SimpleAPI\\Test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj",
         "projectName": "SimpleAPI.Tests",
-        "projectPath": "D:\\CICDNew\\SimpleAPI\\test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj",
+        "projectPath": "D:\\CICDNew\\SimpleAPI\\Test\\SimpleAPI.Tests\\SimpleAPI.Tests.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\CICDNew\\SimpleAPI\\test\\SimpleAPI.Tests\\obj\\",
+        "outputPath": "D:\\CICDNew\\SimpleAPI\\Test\\SimpleAPI.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
